@@ -1,0 +1,208 @@
+
+
+body {
+    color: #40514E;
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+  
+ }
+
+ hr{
+   border: dotted #c0eeee 6px;
+   border-bottom:none;
+   width: 4%;
+   margin: 50px auto;
+
+    
+
+ }
+
+ p{
+  line-height: 2;
+}
+
+ h1{
+   color: #66BFBF;
+    font-size:  5.635rem;
+    margin-top: 50px;
+    margin-bottom:0;
+    font-family: 'Sacramento', cursive;
+    display: inline-block;
+
+
+ }
+
+ h1:hover{
+ color:fuchsia;
+ padding: 10px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+
+
+
+ }
+
+ h2{
+   color:#66BFBF;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.3rem;
+   font-weight: normal;
+   padding: 10px;
+   margin: 1px;
+ 
+ }
+
+ h3{
+   color:#11999E;
+   font-family: 'Montserrat', sans-serif;
+ }
+
+ .top-container{
+    background-color: #e1ebe8;
+    position: relative;
+    padding-top: 100px;
+
+ }
+ 
+ .middle-container{
+
+  margin-top: 110px ;
+  margin-bottom: 10px;
+  
+       
+ }
+
+ .bottom-container{  
+
+  padding: 5px 0 1px;
+  background-color: #032525d5;
+  
+ 
+
+ }
+
+ .contact-me{
+
+  padding-bottom: 10%;
+  
+ }
+
+ .bottom-cloud{
+    position: absolute;
+    bottom: 310px;
+    left: 350px;
+ }
+
+ .top-cloud{
+
+    position: absolute;
+    top: 55px;
+    right: 350px;
+ }
+
+ .intro{
+  width: 30%;
+  margin:0 auto ;
+
+}
+
+ .skill-row1{
+
+   width: 50%;
+   margin:20px auto 100px auto;
+   text-align: left;
+
+   
+ }
+ .skill-row2{
+
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  
+ }
+
+ .skills-img1{
+
+    width:35%;
+    float: left;
+    margin-right:4%;
+
+ }
+
+ .skills-img2{
+  width:35%;
+  float:right;
+  margin-right:4%;
+
+ }
+  
+ .footer-link{
+
+   color:#f7ffff;
+   text-decoration: none;
+   font-family:'Montserrat', sans-serif;
+   padding: 5px 10px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 10px 10px;
+   cursor: pointer;
+   
+
+ }
+ .footer-link:hover {
+   color: rgb(186, 151, 235);
+   background-color: transparent;
+   padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ }
+
+ .contact-msg{
+
+ width:50%;
+ margin: 40px auto 10px;
+
+ }
+
+ .cont{
+  background-color:#bacee0; 
+  color: black; 
+  font-family:'Montserrat', sans-serif;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+
+  
+}
+
+.cont:hover {
+  color: rgb(47, 186, 224);
+  background-color: transparent;
+  padding: 10px 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+}
+
+.copy-right{
+  color: white;
+  font-size: 0.60rem;
+}
+
+ 
+.profile-pic{
+
+  width: 30%;
+
+}
